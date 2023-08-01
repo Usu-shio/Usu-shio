@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Usu-shio/Usu-shio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usu-shio)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usu-shio)](https://github.com/anuraghazra/github-readme-stats)
+#うすしおのGitHubアカウント
+###自己紹介
+新潟県に住む16歳です。
+好きな言語はPHPです
+あとは自宅サーバーなどもやっております
+よろしくお願いします。
+###リンク
+[自宅鯖のブログ](https://www.usu-shio.net/)
+[X(Twitter)](https://twitter.com/Usushio_web)
+[Misskey](https://misskey.io/@Usushio_web)
